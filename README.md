@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">My Linguages! 🎓</h4>
+<h4 align="left">My Languages! 🎓</h4>
 
 ###
 
