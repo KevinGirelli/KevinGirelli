@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left"> 🔭 Atualmente estou cursando informática no Cedup Abílio Paulo<br><br>🌱 No momento estou aprendendo Java, Spring,  e Angular<br><br>✉️ Meu email kevingirelli@gmail.com</h6>
+<h6 align="left"> 🔭 Atualmente estou cursando informática no Cedup Abílio Paulo<br><br>🌱 No momento estou aprendendo Java, Spring,  e Angular<br><br>✉️ Meu email kevingirelli.gg@gmail.com</h6>
 
 ###
 
